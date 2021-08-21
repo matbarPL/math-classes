@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nazwa\ w1\ w2\ w3
+comment0.target=Trojkat(java.lang.String,\ Punkt,\ Punkt,\ Punkt)
+comment1.params=t
+comment1.target=boolean\ equals(java.lang.Object)
+comment2.params=
+comment2.target=double\ obwod()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

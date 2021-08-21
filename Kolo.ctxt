@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nazwa\ s\ p
+comment0.target=Kolo(java.lang.String,\ Punkt,\ int)
+comment1.params=k
+comment1.target=boolean\ equals(java.lang.Object)
+comment2.params=
+comment2.target=double\ obwod()
+comment3.params=k1
+comment3.target=boolean\ zawiera(Kolo)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

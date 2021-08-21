@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=rozm
+comment0.target=Tab(int)
+comment1.params=x
+comment1.target=void\ naKoniec(int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ maxW()
+comment4.params=poz
+comment4.target=void\ usun(int)
+comment5.params=x\ poz
+comment5.target=void\ dodaj(int,\ int)
+comment6.params=x
+comment6.target=void\ usunWszystkie(int)
+comment7.params=
+comment7.target=void\ wstaw()
+numComments=8

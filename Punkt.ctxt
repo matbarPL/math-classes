@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Punkt(double,\ double)
+comment1.params=
+comment1.target=double\ dajX()
+comment2.params=
+comment2.target=double\ dajY()
+comment3.params=
+comment3.target=void\ ustawX()
+comment4.params=
+comment4.target=void\ ustawY()
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=dx\ dy
+comment7.target=void\ przesun(double,\ double)
+comment8.params=p
+comment8.target=double\ odleglosc(Punkt)
+numComments=9

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=koniec1\ koniec2
+comment0.target=Odcinek(Punkt,\ Punkt)
+comment1.params=o
+comment1.target=boolean\ equals(java.lang.Object)
+comment2.params=
+comment2.target=double\ dlugosc()
+comment3.params=
+comment3.target=java.lang.String\ dajWektor()
+comment4.params=
+comment4.target=java.lang.String\ dajWspolrzedne()
+comment5.params=
+comment5.target=boolean\ jestPionowy()
+comment6.params=
+comment6.target=double\ wspolczynnik()
+comment7.params=a
+comment7.target=boolean\ wyzej(Odcinek)
+numComments=8

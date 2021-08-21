@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=rozmiar
+comment0.target=Geometria(int)
+comment1.params=f
+comment1.target=boolean\ czyjest(Figura)
+comment2.params=f
+comment2.target=void\ dodajFigure(Figura)
+comment3.params=
+comment3.target=void\ druk()
+comment4.params=
+comment4.target=double\ sumaObwodow()
+comment5.params=nazwa
+comment5.target=Figura\ dajFigure(java.lang.String)
+comment6.params=
+comment6.target=void\ utworz()
+comment7.params=nazwa
+comment7.target=void\ usunFigure(java.lang.String)
+comment8.params=
+comment8.target=int\ liczbaKol()
+numComments=9

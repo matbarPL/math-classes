@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nazwa\ w1\ w2\ w3\ w4
+comment0.target=Prostokat(java.lang.String,\ Punkt,\ Punkt,\ Punkt,\ Punkt)
+comment1.params=
+comment1.target=double\ obwod()
+numComments=2

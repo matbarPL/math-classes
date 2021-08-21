@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=a\ b\ c
+comment0.target=rownanie_kwadratowe(int,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ rozwiaz()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=a
+comment3.target=void\ ustawA(int)
+comment4.params=b
+comment4.target=void\ ustawB(int)
+comment5.params=c
+comment5.target=void\ ustawC(int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

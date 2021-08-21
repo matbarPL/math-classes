@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=godz\ min\ sek
+comment0.target=Czas(int,\ int,\ int)
+comment1.params=c
+comment1.target=Czas\ plusCzas(Czas)
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=rozmiarTablicy
+comment0.target=TablicaOdcinkow(int)
+comment1.params=other
+comment1.target=void\ dodaj(Odcinek)
+comment2.params=
+comment2.target=void\ wpisz()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=int\ dlugosc()
+comment5.params=
+comment5.target=java.lang.String\ najwyzszy()
+numComments=6

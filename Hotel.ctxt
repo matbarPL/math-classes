@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=rozmiar
+comment0.target=Hotel(int)
+comment1.params=o\ x
+comment1.target=void\ przydzielNumer(Osoba,\ int)
+comment2.params=x
+comment2.target=boolean\ czyWolnyNumer(int)
+comment3.params=
+comment3.target=boolean\ czyWolny()
+comment4.params=
+comment4.target=int\ ileWolnych()
+comment5.params=nazwisko
+comment5.target=boolean\ czyWynajmuje(java.lang.String)
+comment6.params=nazwisko
+comment6.target=void\ zwolnij(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=void\ wpisz()
+numComments=9
